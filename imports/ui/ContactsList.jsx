@@ -46,8 +46,6 @@ export const ContactList = () => {
     return <Loading />;
   }
   return (
-    <>
-    <Loading />
     <div>
       <div className="mt-10">
         <h3 className="text-xs font-semibold text-gray-500 uppercase tracking-wide">
@@ -60,6 +58,5 @@ export const ContactList = () => {
         </ul>
       </div>
     </div>
-    </>
   )
 }
