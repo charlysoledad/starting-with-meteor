@@ -9,13 +9,15 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.17.9",
-    "@heroicons/react": "^1.0.5",
+    "@headlessui/react": "^1.7.4",
+    "@heroicons/react": "^1.0.6",
     "autoprefixer": "^10.4.13",
     "meteor-node-stubs": "^1.2.1",
     "postcss": "^8.4.19",
     "postcss-load-config": "^3.1.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "simpl-schema": "^3.0.1",
     "tailwindcss": "2.2.19"
   },
   "meteor": {
